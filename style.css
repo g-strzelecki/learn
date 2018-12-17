@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-12-15, 18:26:12
+    Author     : Grzesion
+*/
+
+#toTopButton
+{
+    background-color: teal;
+    width: 150px;
+    height: 30px;
+    padding: 10px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
+    display: none;
+}
+
+#toTopButton:hover
+{
+    color: red;
+}
